@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">SmartWatch Ripple Price</string>
+    <string name="preference_activity_title">Ripple Price settings</string>
+    <string name="configuration_text">Ripple Price settings</string>
+    <string name="extension_name">Ripple Price</string>
+    <string name="widget_name_1_2">Small text box</string>
+    <string name="widget_name_2_5">Large text box</string>
+
+    <string name="preference_key_read_me">preference_key_read_me</string>
+    <string name="preference_option_read_me">READ ME</string>
+    <string name="preference_option_read_me_txt">Current price of ripple</string>
+
+    <string name="preference_widget_text_key">preferencer_widget_text_key</string>
+    <string name="preference_widget_text_title">Widget text</string>
+    <string name="preference_widget_text_summary">The text to be shown on the widget</string>
+    <string name="preference_widget_text_dialog_title">Widget text</string>
+    <string name="preference_widget_text_dialog_message">Enter the text to be shown on the widget</string>
+    <string name="preference_widget_text_default">XRP</string>
+
+</resources>
